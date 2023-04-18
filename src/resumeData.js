@@ -117,7 +117,7 @@ let resumeData = {
   ],
   "testimonials": [
     {
-      "description": "/images/portfolio/cert.png",
+      "description": "images/portfolio/cert.png",
       "link": "https://www.credly.com/badges/b4bb2aa5-18fe-4597-8c2f-5468da354551/public_url"
     }
   ]
