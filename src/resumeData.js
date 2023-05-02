@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Software development student",
   "gmail": "ville.gust@gmail.com",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development. I like to learn about new technologies, design and develop websites or simply play games in my free time.",
+  "roleDescription": " I like dabbling in various parts of frontend development. I like to learn about new technologies, design and develop websites or simply play games in my free time.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -110,9 +110,15 @@ let resumeData = {
     },
     {
       "name": "Stuns Maps Project",
-      "description": "This project is made for STUNS. It was made with NextJS with typescript and a MySQL database.",
+      "description": "This project is made for STUNS. It was made with NextJS with TypeScript and a MySQL database.",
       "imgurl": "images/portfolio/project5.png",
       "link": "https://maps.stuns.se/"
+    },
+    {
+      "name": "Nti-countdown",
+      "description": "This project is made for NTI Uppsala. It was made with NextJS and TypeScript",
+      "imgurl": "images/portfolio/project6.png",
+      "link": "https://nti-nedrakning.vercel.app/"
     }
   ],
   "testimonials": [
