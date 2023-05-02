@@ -18,6 +18,7 @@ let resumeData = {
     },
   ],
   "aboutme": " My name is Vilhelm Gustavsson and I am a software development student from Sweden. During my passed three years in school I have primarly worked on project using programming languages such as python, html, css and javascript. I am currently studying a fourth year of high school at NTI where I get to work on projects in groups using Scrum.",
+  "phone": "+4670-940-99-54",
   "address": "Sweden",
   "website": "https://gustavsson123.github.io/portfolio/",
   "education": [
