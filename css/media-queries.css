@@ -339,6 +339,11 @@
       width: 100%;
    }
 
+   #certificate {
+      width: 120px;
+      height: 120px;
+   }
+
    /* Testimonials Section
    ----------------------------------------------------------------------- */
    #testimonials .text-container {
