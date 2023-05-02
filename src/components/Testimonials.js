@@ -13,7 +13,7 @@ export default class Testimonials extends Component {
                     return (
                       <li key={index}>
                         <blockquote>
-                          <img src={`${item.description}`} alt="cert" />
+                          <img id='certificate' src={`${item.description}`} alt="cert" />
                           <cite><a href={item.link}>Microsoft Technology Associate <br /> Introduction to Programming Using Python</a></cite>
                         </blockquote>
                       </li>

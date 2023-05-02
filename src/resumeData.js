@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Software development student",
   "gmail": "ville.gust@gmail.com",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, just relax or simply play games in my free time.",
+  "roleDescription": "I like dabbling in various parts of frontend development. I like to learn about new technologies, design and develop websites or simply play games in my free time.",
   "socialLinks": [
     {
       "name": "linkedin",

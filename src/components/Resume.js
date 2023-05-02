@@ -22,7 +22,7 @@ export default class Resume extends Component {
                         {item.specialization}
                         <span>&bull;</span> <em className="date">{item.MonthOfStart} {item.YearOfStart} - {item.MonthOfPassing} {item.YearOfPassing}</em></p>
                       <p className="infoLinks">
-                        <a href={`${item.link}`}>{item.Achievements}</a>
+                        <a href={`${item.link}`} target='_blank' rel="noopener noreferrer">{item.Achievements}</a>
                       </p>
                     </div>
                   </div>
